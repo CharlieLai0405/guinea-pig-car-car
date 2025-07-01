@@ -1,4 +1,4 @@
-# 🐹 Guinea Pig Car Car Race Simulation
+# Guinea Pig Car Car Race Simulation
 A Java-based OOP simulation of a guinea pig car race with rule-driven behavior.
 
 ## Overview
@@ -7,11 +7,11 @@ This project simulates an annual race between three guinea pig cars — a police
 
 ## Features
 
-- 🏎️ 3 Vehicle types: PoliceCar, Ambulance, TrashTruck
+- 3 Vehicle types: PoliceCar, Ambulance, TrashTruck
 - 🥕 Red carrot boosts speed, 🥬 lettuce has no effect
 - 💩 When a car eats more than 5 food items, it "pupu" and resets speed
-- 🏁 Real-time distance tracking and simulation logic
-- ☑ Fully object-oriented: inheritance, polymorphism, encapsulation
+- Real-time distance tracking and simulation logic
+- Fully object-oriented: inheritance, polymorphism, encapsulation
 
 ---
 
@@ -26,7 +26,7 @@ This project simulates an annual race between three guinea pig cars — a police
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 src/
@@ -46,7 +46,7 @@ src/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### 1. Compile
 
@@ -66,7 +66,7 @@ java -cp out Main
 
 ---
 
-## 💡 Example Output
+## Example Output
 
 ```
 阿比: 棒出了 lettuce, carrot, carrot, lettuce, lettuce, carrot
@@ -79,7 +79,7 @@ java -cp out Main
 
 ---
 
-## 🔧 Techniques Used
+## Techniques Used
 
 - Java OOP Design: Inheritance, Polymorphism, Encapsulation
 - CLI simulation logic
@@ -88,7 +88,7 @@ java -cp out Main
 
 ---
 
-## 📌 Author
+## Author
 
 - Developed by Charlie Lai
 - Institution: National Central University
